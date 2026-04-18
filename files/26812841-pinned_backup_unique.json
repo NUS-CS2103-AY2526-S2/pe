@@ -1,0 +1,47 @@
+{
+  "persons": [
+    {
+      "name": "Pinned Alpha Unique",
+      "phone": "80100001",
+      "email": "pinned.alpha.unique@example.com",
+      "address": "Pinned Alpha Address",
+      "profilePicturePath": "",
+      "followUp": "",
+      "tags": [],
+      "positions": [],
+      "majors": [],
+      "groups": [],
+      "timeSlot": [],
+      "pinned": true
+    },
+    {
+      "name": "Pinned Bravo Unique",
+      "phone": "80100002",
+      "email": "pinned.bravo.unique@example.com",
+      "address": "Pinned Bravo Address",
+      "profilePicturePath": "",
+      "followUp": "",
+      "tags": [],
+      "positions": [],
+      "majors": [],
+      "groups": [],
+      "timeSlot": [],
+      "pinned": true
+    },
+    {
+      "name": "Pinned Charlie Unique",
+      "phone": "80100003",
+      "email": "pinned.charlie.unique@example.com",
+      "address": "Pinned Charlie Address",
+      "profilePicturePath": "",
+      "followUp": "",
+      "tags": [],
+      "positions": [],
+      "majors": [],
+      "groups": [],
+      "timeSlot": [],
+      "pinned": true
+    }
+  ],
+  "meetings": []
+}
