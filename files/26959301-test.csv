@@ -1,0 +1,6 @@
+﻿name,role,address,phone,email,tags
+Alex Tan,player,12 Clementi Road,91234567,alex.tan@example.com,captain;striker
+Bernice Lim,staff,45 Jurong West Ave 3,92345678,bernice.lim@example.com,manager
+Cheryl Goh,player,89 Bukit Timah Road,93456789,cheryl.goh@example.com,midfielder
+Daniel Lee,player,101 Pasir Ris Drive 4,94567890,daniel.lee@example.com,defender
+Ethan Ong,staff,22 Tampines Street 11,95678901,ethan.ong@example.com,physio
